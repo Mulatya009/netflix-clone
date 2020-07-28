@@ -1,0 +1,7 @@
+1. create react app
+
+firebase{
+	create a project in firebase website
+
+	install firebase tools in your project
+}

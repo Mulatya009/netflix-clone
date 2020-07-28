@@ -1,0 +1,4 @@
+Project Console: https://console.firebase.google.com/project/netflix-clone-cd56a
+/overview
+Hosting URL: https://netflix-clone-cd56a.web.app
+
